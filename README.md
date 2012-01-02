@@ -1,0 +1,1 @@
+This module is a wrapper for Fabien Potencier's ([fabpot](https://github.com/fabpot)) Symfony2 ClassLoader [link](https://github.com/symfony/ClassLoader) to provide support for Namespaced PSR-0 modules in Kohana 3.x. Instead of writing individual wrappers for all PSR-0 compatible libraries you can now use just use this ClassLoader instead.
